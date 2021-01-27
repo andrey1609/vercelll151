@@ -1,0 +1,4 @@
+baseURL = "https://simplequotesnisby5.vercel.app"
+languageCode = "en-us"
+title = "Beautiful Life Quotes"
+theme = "tale-hugo-master"
